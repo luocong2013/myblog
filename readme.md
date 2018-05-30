@@ -11,3 +11,5 @@
 * myblog>python manage.py startapp blog
 
 * 添加应用名到settings.py中的INSTALLED_APPS里
+## 四、配置url
+* myblog下的urls.py是总路径，应用blog下的urls.py是在总路径下的分路径
